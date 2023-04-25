@@ -1,4 +1,4 @@
-Hello World- New CI CD triggered for SCM Change! (WAR-style)
+Hello World- New CI CD triggered for SCM Changes made by developer! (WAR-style)
 new jenkins job
 ===============
 
