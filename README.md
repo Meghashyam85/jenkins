@@ -1,3 +1,3 @@
 war
 jar
-ee
+ear
