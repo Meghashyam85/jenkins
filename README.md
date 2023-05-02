@@ -1,4 +1,4 @@
-Hello World- This is new CI CD change from developer! (WAR-style)
+Hello World war- This is new CI CD change from developer! (WAR-style)
 new jenkins pipeline job created 
 ===============
 
