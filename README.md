@@ -1,5 +1,1 @@
-Hello World- New CI CD triggered for SCM Changes made by developer! (WAR-style)
-new jenkins job
-===============
-
-This is the simplest possible Java webapp for testing servlet container deployments.  It should work on any container and requires no other dependencies or configuration.
+war
